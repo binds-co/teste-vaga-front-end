@@ -78,6 +78,7 @@ Após terminar o desafio, você pode nos enviar o link desse repositório por e-
 Vamos receber e fazer a avaliação de todos.
 
 **Email para contato**: recrutamento@binds.co
+
 **Assunto**: Desenvolvedor front-end júnior
 
 **Obs**: Deixe o repositório como "público".
